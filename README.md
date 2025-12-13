@@ -22,7 +22,7 @@ Welcome to the official repository for **Introduction to AI Programming (EE-251)
 📦 course-repository:Introduction-to-AI-programming.  
  ┣ 📁 Lab-Reports   
  ┃ ┗ 📄 [README.md](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./blob/main/Lab%20Reports/readme.md)  
- ┃       [![DOI](https://zenodo.org/badge/1101050829.svg)] (https://doi.org/10.5281/zenodo.17752993)  
+ ┃       [![DOI](https://zenodo.org/badge/1101050829.svg)](https://doi.org/10.5281/zenodo.17752993) 
  ┣ 📁 Lab-Tasks  
  ┃ ┗ 📄 [README.md](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./blob/main/Lab%20Tasks/Readme.md)  
  ┃        [![DOI](https://zenodo.org/badge/1101319956.svg)](https://doi.org/10.5281/zenodo.17752653)  
