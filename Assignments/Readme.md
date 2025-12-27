@@ -26,9 +26,9 @@ Each assignment folder contains:
 Each assignment has been **archived on Zenodo** for long-term preservation and citation.  
 The corresponding **DOIs** are listed below:
 
-- **Assignment 1 DOI:**   [PASTE_DOI_HERE](https://doi.org/10.5281/zenodo.18063816)
-- **Assignment 2 DOI:**   [PASTE_DOI_HERE](https://doi.org/10.5281/zenodo.18063986)
-- **Assignment 3 DOI:**   [PASTE_DOI_HERE](https://doi.org/10.5281/zenodo.18068390)
+- **Assignment 1 DOI:**   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18063816.svg)](https://doi.org/10.5281/zenodo.18063816)
+- **Assignment 2 DOI:**   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18063986.svg)](https://doi.org/10.5281/zenodo.18063986)
+- **Assignment 3 DOI:**   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18068390.svg)](https://doi.org/10.5281/zenodo.18068390)
 
 ---
 
