@@ -11,9 +11,9 @@ Each assignment is organized into a **separate folder** to ensure clarity, struc
 ## 📂 Folder Structure
 The `Assignments` directory includes the following subfolders:
 
-- **Assignment 1/**
-- **Assignment 2/**
-- **Assignment 3/**
+- [**Assignment 1/**](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./tree/main/Assignments/Assignment%201)
+- [**Assignment 2/**](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./tree/main/Assignments/Assignment%202)
+- [**Assignment 3/**](https://github.com/Mughees-ud-din/Introduction-to-AI-programming./tree/main/Assignments/Assignment%203)
 
 Each assignment folder contains:
 - 📄 Assignment **PDF** (submitted to sir)
